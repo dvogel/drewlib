@@ -7,3 +7,4 @@ from drewlib.compact import compact
 from drewlib.highlight_substrings import highlight_substrings
 from drewlib.highlighted_match import highlighted_match
 from drewlib.power_of_ten_floor import power_of_ten_floor
+from drewlib.dict_slicer import DictSlicer
